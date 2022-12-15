@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(/project-pweb/asset/bgtrx.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: fill;
+}
+nav{
+    background-color: #1E5EA1;
+}
+
+/* #navbarNav{
+    margin-right: 10px;
+} */
+
+.shadow{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #ffffff;
+    padding-bottom: 1%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.shadow h1{
+    padding-top: 5%;
+}
+.shadow p{
+    padding-bottom: 1%;
+}
+#timedate {
+    font: small-caps lighter 32px/100% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    text-align:left;
+    width: 70%;
+    color:#ffffff;
+    border-left: 3px solid #FFF6BF;
+    padding: 20px;
+    margin-left: -10%;
+    margin-top: 5%;
+    
+  } 

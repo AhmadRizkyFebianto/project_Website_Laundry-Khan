@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(/project-pweb/asset/bgpsn.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: fill;
+}
+nav{
+    background-color: #1E5EA1;
+}
+#navbarNav{
+    margin-right: 10px;
+}
+.shadow{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #ffffff;
+    padding-top: 4%;
+    padding-bottom: 1%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.tabel{
+    padding-top: 2%;
+    background-color:#ffffff ;
+    padding-bottom: 2%;
+    overflow-x: auto;
+}
+.tabel input{
+    display: flex;
+    align-items: flex-start;
+}
+table{
+    margin-top: 2%;
+}
+.parser{
+    padding-bottom: 20%;
+}
+.nav-link{
+    color: #FFFFFF;
+    text-decoration: none; 
+} 
+.text{
+    color: #FFFFFF;
+}
+
+.row{
+    padding: 10px 30px 20px 30px;
+    margin-top: 50px;
+}
+
+#header{
+    background-color: #FDF9BA;
+}
+
+
+.input-group{
+    width: 300px;
+    margin-top: 2%;
+}
+
+.content{
+    margin-top: 100px;
+}
+
+#timedate {
+    font: small-caps lighter 32px/100% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    text-align:left;
+    width: 50%;
+    color:#ffffff;
+    border-left: 3px solid #FFF6BF;
+    padding: 20px;
+    margin-top: -7%;
+  } 
+  .body {
+    background-color: aqua;
+  }

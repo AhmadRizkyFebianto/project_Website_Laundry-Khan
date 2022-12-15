@@ -1,0 +1,9 @@
+===== warning =====
+
+jika ingin install web ini untuk kepentingan hosting harap ganti di bagian path 
+karena semua path yang ada saya arahkan ke dalam folder localhost ini
+
+
+===== database ====
+untuk databasenya harap anda instal di database anda sendiri 
+database berada di folder database dengan ekstensi (.sql)

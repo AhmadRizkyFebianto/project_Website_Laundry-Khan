@@ -1,0 +1,20 @@
+.logo img{
+    width: 100%;
+}
+.content{
+    padding-top: 50px;
+    gap: 10px;
+}
+.teks h1{
+    font-weight: bolder;
+    color: #46526F;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.teks{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 30px;
+}
+.teks img{
+    width: 80%;
+}
+

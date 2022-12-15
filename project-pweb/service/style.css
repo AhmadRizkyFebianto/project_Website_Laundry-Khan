@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+#nabar{
+    background-color: #317ac7;
+}
+
+.container1{
+    background-image: url(/project-pweb/asset/service.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.teks{
+    color: #ffffff;
+    margin-left: 5%;
+    padding-top: 11%;
+    padding-bottom: 11%;
+}
+.shadow{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+.row{
+    justify-content: center;
+    gap: 30px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.isi{
+    display: flex;
+    color: #ffffff;
+}
+.content{
+    margin-top: 20%;
+}
+.text{
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #6E7CA1;
+    max-width: 100%;
+}
+.card img{
+    width: 100%;
+}
+.text img{
+    max-width: 20px;
+    max-height: 20px;
+}
+.header{
+    text-align: center;
+    border: solid #6E7CA1;
+    width: 120px;
+    height: 110px;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    color: #46526F;
+    position: absolute;
+    margin-top: -20%;
+    margin-left: 25%;
+}
+.head{
+    text-align: center;
+    color: #46526F;
+}
+.tex{
+    margin: 25% 20%;
+}
+.texlg{
+    margin-top: 40px;
+}
